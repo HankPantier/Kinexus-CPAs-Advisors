@@ -46,10 +46,10 @@ The builders who stand to gain the most from this change share a few traits:
 
 | Builder profile | Why the exception helps |
 |---|---|
-| Spec home builders carrying unsold inventory | Defers income recognition until sale closes, not while units sit unsold |
-| Small multi-unit developers (duplexes, triplexes, fourplexes) | Newly qualifying project types can move off PCM |
+| Spec home builders carrying unsold inventory in St. George, Las Vegas, or Phoenix | Defers income recognition until sale closes, not while units sit unsold |
+| Small multi-unit developers (duplexes, triplexes, fourplexes) across Utah, Arizona, and Nevada | Newly qualifying project types can move off PCM |
 | Builders with long closing cycles due to buyer financing delays | Matches tax liability to actual cash receipt |
-| Contractors mixing residential and light commercial work | Need contract-by-contract analysis to apply the exception correctly |
+| Utah, Arizona, and Nevada contractors mixing residential and light commercial work | Need contract-by-contract analysis to apply the exception correctly |
 
 Builders working exclusively on custom homes under contract with a buyer from day one, where the home is essentially pre-sold, may see less benefit since income timing was already closer to cash timing. The exception matters most where there's a real gap between when costs are incurred and when cash from the sale arrives.
 
