@@ -53,11 +53,11 @@ The builders who stand to gain the most from this change share a few traits:
 
 Builders working exclusively on custom homes under contract with a buyer from day one, where the home is essentially pre-sold, may see less benefit since income timing was already closer to cash timing. The exception matters most where there's a real gap between when costs are incurred and when cash from the sale arrives.
 
-## What St. George builders should do before signing 2026 contracts
+## What Utah, Arizona, and Nevada builders should do before signing 2026 contracts
 
 Start with a contract-level review, not a blanket policy change. Every job needs to be checked against the 80% cost threshold and unit-count rules to confirm it actually qualifies for the exception. Then decide, with your CPA, whether completed contract accounting genuinely improves your position, since deferring income also means deferring the ability to use losses or credits in the year costs are incurred. For builders with tight financing covenants tied to reported income, PCM may still be the better call even where the exemption is available.
 
-We've walked contractors through WIP schedule rebuilds before, and the same discipline applies here: know your numbers by contract, not just in aggregate. Our team already prepares [WIP schedules and percentage of completion accounting](/industries/construction/wip-schedules-percentage-completion) for builders across the region, and this law change is exactly the kind of shift that needs to run through that same job-costing detail before a method election gets filed.
+We've walked residential contractors and construction business owners across St. George, Southern Utah, Nevada, and Arizona through WIP schedule rebuilds before, and the same discipline applies here: know your numbers by contract, not just in aggregate. Our team already prepares [WIP schedules and percentage of completion accounting](/industries/construction/wip-schedules-percentage-completion) for builders across the tri-state region, and this law change is exactly the kind of shift that needs to run through that same job-costing detail before a method election gets filed.
 
 If your business also carries retainage balances or seasonal cash gaps on top of this, it's worth reading how we help contractors plan around [retainage tying up cash](/retainage-is-holding-your-cash-hostage-heres-how-to-plan-around-it), since the two issues often compound each other during long construction cycles.
 
