@@ -1,252 +1,256 @@
 {
   "primary": [
     {
-      "url": "/services",
       "label": "Services",
+      "url": "/services",
       "children": [
         {
-          "url": "/what-we-do/outsourced-accounting",
-          "label": "Outsourced accounting"
+          "label": "Outsourced accounting",
+          "url": "/what-we-do/outsourced-accounting"
         },
         {
-          "url": "/what-we-do/bookkeeping",
-          "label": "Bookkeeping"
+          "label": "Bookkeeping",
+          "url": "/what-we-do/bookkeeping"
         },
         {
-          "url": "/what-we-do/payroll",
-          "label": "Payroll"
+          "label": "Payroll",
+          "url": "/what-we-do/payroll"
         },
         {
-          "url": "/what-we-do/business-management-services",
-          "label": "Business management services"
+          "label": "Business management services",
+          "url": "/what-we-do/business-management-services"
         },
         {
-          "url": "/what-we-do/business-tax",
-          "label": "Business tax"
+          "label": "Business tax",
+          "url": "/what-we-do/business-tax"
         },
         {
-          "url": "/what-we-do/personal-income-tax",
-          "label": "Personal income tax"
+          "label": "Personal income tax",
+          "url": "/what-we-do/personal-income-tax"
         },
         {
-          "url": "/what-we-do/audit-protection",
-          "label": "Audit protection"
+          "label": "Audit protection",
+          "url": "/what-we-do/audit-protection"
         },
         {
-          "url": "/what-we-do/business-foundation-services",
-          "label": "Business foundation services"
+          "label": "Business foundation services",
+          "url": "/what-we-do/business-foundation-services"
         },
         {
-          "url": "/services/irs-representation-tax-resolution",
-          "label": "IRS representation and tax resolution"
+          "label": "IRS representation and tax resolution",
+          "url": "/services/irs-representation-tax-resolution"
         },
         {
-          "url": "/services/advanced-tax-planning",
-          "label": "Advanced tax planning for high income owners"
+          "label": "Advanced tax planning for high income owners",
+          "url": "/services/advanced-tax-planning"
         },
         {
-          "url": "/services/entity-structuring",
-          "label": "Entity structuring for growing businesses"
+          "label": "Entity structuring for growing businesses",
+          "url": "/services/entity-structuring"
         },
         {
-          "url": "/services/operations-efficiency-consulting",
-          "label": "Back office operations efficiency consulting"
+          "label": "Back office operations efficiency consulting",
+          "url": "/services/operations-efficiency-consulting"
         }
       ]
     },
     {
-      "url": "/industries",
       "label": "Industries we serve",
+      "url": "/industries",
       "children": [
         {
-          "url": "/who-we-serve/construction",
           "label": "Construction accounting",
+          "url": "/who-we-serve/construction",
           "children": [
             {
-              "url": "/industries/construction/wip-schedules-percentage-completion",
-              "label": "WIP schedules and percentage of completion accounting"
+              "label": "WIP schedules and percentage of completion accounting",
+              "url": "/industries/construction/wip-schedules-percentage-completion"
             },
             {
-              "url": "/what-a-wip-schedule-actually-tells-you-and-why-your-banker-cares",
-              "label": "What a WIP schedule actually tells you and why your banker cares"
+              "label": "What a WIP schedule actually tells you and why your banker cares",
+              "url": "/what-a-wip-schedule-actually-tells-you-and-why-your-banker-cares"
             },
             {
-              "url": "/retainage-is-holding-your-cash-hostage-heres-how-to-plan-around-it",
-              "label": "Retainage is holding your cash hostage heres how to plan around it"
+              "label": "Retainage is holding your cash hostage heres how to plan around it",
+              "url": "/retainage-is-holding-your-cash-hostage-heres-how-to-plan-around-it"
             },
             {
-              "url": "/category/construction",
-              "label": "Construction articles"
+              "label": "Construction articles",
+              "url": "/category/construction"
             }
           ]
         },
         {
-          "url": "/who-we-serve/restaurants",
           "label": "Restaurant accounting",
+          "url": "/who-we-serve/restaurants",
           "children": [
             {
-              "url": "/industries/restaurants/multi-location-franchise-tax-strategy",
-              "label": "Multi location and franchise restaurant tax strategy"
+              "label": "Multi location and franchise restaurant tax strategy",
+              "url": "/industries/restaurants/multi-location-franchise-tax-strategy"
             }
           ]
         },
         {
-          "url": "/who-we-serve/entrepreneurs",
-          "label": "Entrepreneurs and startups"
+          "label": "Entrepreneurs and startups",
+          "url": "/who-we-serve/entrepreneurs"
         },
         {
-          "url": "/who-we-serve/real-estate",
-          "label": "Real estate accounting"
+          "label": "Real estate accounting",
+          "url": "/who-we-serve/real-estate"
         },
         {
-          "url": "/who-we-serve/real-estate-investors",
-          "label": "Real estate investors"
+          "label": "Real estate investors",
+          "url": "/who-we-serve/real-estate-investors"
         },
         {
-          "url": "/who-we-serve/medical-professionals",
-          "label": "Medical professionals"
+          "label": "Medical professionals",
+          "url": "/who-we-serve/medical-professionals"
         },
         {
-          "url": "/who-we-serve/service-based-businesses",
-          "label": "Service based businesses"
+          "label": "Service based businesses",
+          "url": "/who-we-serve/service-based-businesses"
         },
         {
-          "url": "/who-we-serve/manufacturing-distribution",
-          "label": "Manufacturing and distribution"
+          "label": "Manufacturing and distribution",
+          "url": "/who-we-serve/manufacturing-distribution"
         },
         {
-          "url": "/who-we-serve/physical-therapy-professional-services",
-          "label": "Physical therapy and professional practices"
+          "label": "Physical therapy and professional practices",
+          "url": "/who-we-serve/physical-therapy-professional-services"
         },
         {
-          "url": "/who-we-serve/nonprofits",
           "label": "Nonprofit organizations",
+          "url": "/who-we-serve/nonprofits",
           "children": [
             {
-              "url": "/fraud-prevention-strategies-for-nonprofit-organizations",
-              "label": "Fraud prevention strategies for nonprofit organizations"
+              "label": "Fraud prevention strategies for nonprofit organizations",
+              "url": "/fraud-prevention-strategies-for-nonprofit-organizations"
             }
           ]
         }
       ]
     },
     {
-      "url": "/who-we-are",
       "label": "Who we are",
+      "url": "/who-we-are",
       "children": [
         {
-          "url": "/who-we-are/team",
-          "label": "Our team"
+          "label": "Our team",
+          "url": "/who-we-are/team"
         },
         {
-          "url": "/careers",
-          "label": "Careers"
+          "label": "Careers",
+          "url": "/careers"
         }
       ]
     },
     {
-      "url": "/resources/insights",
       "label": "Insights",
+      "url": "/resources/insights",
       "children": [
         {
-          "url": "/resources/insights/page/2",
-          "label": "Insights page 2"
+          "label": "Insights page 2",
+          "url": "/resources/insights/page/2"
         },
         {
-          "url": "/resources/insights/page/3",
-          "label": "Insights page 3"
+          "label": "Insights page 3",
+          "url": "/resources/insights/page/3"
         },
         {
-          "url": "/resources/insights/page/4",
-          "label": "Insights page 4"
+          "label": "Insights page 4",
+          "url": "/resources/insights/page/4"
         },
         {
-          "url": "/resources/insights/page/5",
-          "label": "Insights page 5"
+          "label": "Insights page 5",
+          "url": "/resources/insights/page/5"
         },
         {
-          "url": "/resources/insights/page/6",
-          "label": "Insights page 6"
+          "label": "Insights page 6",
+          "url": "/resources/insights/page/6"
         },
         {
-          "url": "/resources/insights/page/7",
-          "label": "Insights page 7"
+          "label": "Insights page 7",
+          "url": "/resources/insights/page/7"
         },
         {
-          "url": "/resources/insights/page/8",
-          "label": "Insights page 8"
+          "label": "Insights page 8",
+          "url": "/resources/insights/page/8"
         },
         {
-          "url": "/resources/insights/page/9",
-          "label": "Insights page 9"
+          "label": "Insights page 9",
+          "url": "/resources/insights/page/9"
         },
         {
-          "url": "/resources/insights/page/10",
-          "label": "Insights page 10"
+          "label": "Insights page 10",
+          "url": "/resources/insights/page/10"
         },
         {
-          "url": "/resources/insights/page/11",
-          "label": "Insights page 11"
+          "label": "Insights page 11",
+          "url": "/resources/insights/page/11"
         },
         {
-          "url": "/resources/insights/page/12",
-          "label": "Insights page 12"
+          "label": "Insights page 12",
+          "url": "/resources/insights/page/12"
         },
         {
-          "url": "/selling-a-business-rental-or-large-asset-this-year-call-your-cpa-before-you-sign",
-          "label": "Selling a business rental or large asset this year call your cpa before you sign"
+          "label": "Selling a business rental or large asset this year call your cpa before you sign",
+          "url": "/selling-a-business-rental-or-large-asset-this-year-call-your-cpa-before-you-sign"
         },
         {
-          "url": "/when-and-why-every-business-owner-needs-a-business-valuation",
-          "label": "When and why every business owner needs a business valuation"
+          "label": "When and why every business owner needs a business valuation",
+          "url": "/when-and-why-every-business-owner-needs-a-business-valuation"
         },
         {
-          "url": "/transfer-pricing-and-related-entities-what-business-owners-need-to-know",
-          "label": "Transfer pricing and related entities what business owners need to know"
+          "label": "Transfer pricing and related entities what business owners need to know",
+          "url": "/transfer-pricing-and-related-entities-what-business-owners-need-to-know"
         },
         {
-          "url": "/is-your-business-structure-costing-you-money",
-          "label": "Is your business structure costing you money"
+          "label": "Is your business structure costing you money",
+          "url": "/is-your-business-structure-costing-you-money"
         },
         {
-          "url": "/zero-based-budgeting-a-smarter-way-to-manage-your-money-during-persistent-inflation",
-          "label": "Zero based budgeting a smarter way to manage your money during persistent inflation"
+          "label": "Zero based budgeting a smarter way to manage your money during persistent inflation",
+          "url": "/zero-based-budgeting-a-smarter-way-to-manage-your-money-during-persistent-inflation"
         },
         {
-          "url": "/upskilling-your-workforce-a-smart-strategy-for-overcoming-labor-market-shortages",
-          "label": "Upskilling your workforce a smart strategy for overcoming labor market shortages"
+          "label": "Upskilling your workforce a smart strategy for overcoming labor market shortages",
+          "url": "/upskilling-your-workforce-a-smart-strategy-for-overcoming-labor-market-shortages"
         },
         {
-          "url": "/author/donmbn",
-          "label": "Kinexus author page"
+          "label": "Kinexus author page",
+          "url": "/author/donmbn"
         }
       ]
     },
     {
-      "url": "/resources/smart-tips",
       "label": "Smart tips",
+      "url": "/resources/smart-tips",
       "children": [
         {
-          "url": "/resources/smart-tips/page/2",
-          "label": "Smart tips page 2"
+          "label": "Smart tips page 2",
+          "url": "/resources/smart-tips/page/2"
         }
       ]
     },
     {
-      "url": "/resources/forms-documents-links",
-      "label": "Forms documents and links"
+      "label": "Forms documents and links",
+      "url": "/resources/forms-documents-links"
     },
     {
-      "url": "/resources/refund-tracker",
-      "label": "Refund tracker"
+      "label": "Refund tracker",
+      "url": "/resources/refund-tracker"
     },
     {
-      "url": "/contact",
-      "label": "Get in touch"
+      "label": "Resources",
+      "url": "/resources"
     },
     {
-      "url": "/privacy-policy",
-      "label": "Privacy policy"
+      "label": "Get in touch",
+      "url": "/contact"
+    },
+    {
+      "label": "Privacy policy",
+      "url": "/privacy-policy"
     }
   ]
 }
