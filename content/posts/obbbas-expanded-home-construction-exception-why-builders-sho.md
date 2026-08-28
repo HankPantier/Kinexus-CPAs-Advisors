@@ -32,7 +32,7 @@ OBBBA widens who fits inside that exception. More residential projects, includin
 
 The expanded exception applies to contracts entered into after enactment. For a calendar-year taxpayer, that means contracts signed in 2026 are squarely within the new rules, while contracts already in progress from 2024 or 2025 are generally stuck with whatever method applied when they were signed. That creates a clear planning window right now, not later.
 
-Here's the trap: if a builder in St. George signs a batch of new home contracts in January 2026 without revisiting their accounting method election, they may default into the same PCM treatment they've used for years, simply because nobody flagged that the contracts now qualify for an exemption. Method elections aren't automatic. They require an affirmative decision, and in some cases an IRS method change filing, to apply the new treatment correctly and consistently.
+Here's the trap: if a builder in St. George, Las Vegas, or the Phoenix metro signs a batch of new home contracts in January 2026 without revisiting their accounting method election, they may default into the same PCM treatment they've used for years, simply because nobody flagged that the contracts now qualify for an exemption. Method elections aren't automatic. They require an affirmative decision, and in some cases an IRS method change filing, to apply the new treatment correctly and consistently.
 
 ## Method changes take more than a checkbox
 
