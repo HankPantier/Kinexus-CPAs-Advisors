@@ -133,7 +133,7 @@ Every engagement starts with a secure client portal, not a shoebox of receipts. 
 The team at Kinexus blends technical credentials with people who've been here long enough to know your business, not just your file. Shawn T. Gubler, CPA, CTC, MAcc, leads with advanced tax strategy credentials most firms in Washington County don't have on staff. RJ Mathews, CPA, and Chase Gubler, CPA, MAcc, round out the tax and advisory bench, while Andrew Stewart, EA, and Peter Williams, EA, MAcc, handle enrolled agent work and IRS representation. Morgan Nethercott, CPA, rounds out a group built for continuity, not turnover. Meet the full team, including bookkeeping specialist Leslye Haws, on the [Who We Are](/who-we-are) and [team](/who-we-are/team) pages.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Home
+## Frequently Asked Questions
 
 **Q: What makes Kinexus different from other St George CPA firms?**
 A: Kinexus focuses on year-round tax planning rather than once-a-year filing, with credentials like a Certified Tax Coach (CTC), Enrolled Agents (EA), and industry-specific expertise in construction, restaurants, real estate, and medical practices, backed by a modern digital process.
