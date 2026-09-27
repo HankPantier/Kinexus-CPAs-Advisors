@@ -252,5 +252,9 @@
       "label": "Privacy policy",
       "url": "/privacy-policy"
     }
-  ]
+  ],
+  "cta": {
+    "label": "Get in touch",
+    "url": "/contact"
+  }
 }
