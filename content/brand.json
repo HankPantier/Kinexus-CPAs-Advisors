@@ -14,12 +14,12 @@
     "email": "info@stgcpas.com"
   },
   "palette": {
-    "primary": "#1F3A5F",
-    "secondary": "#5A6B7B",
-    "complementary": "#C2703D",
-    "action": "#0E8C9C",
-    "nearBlack": "#1A1C1E",
-    "nearWhite": "#F8F8F6"
+    "primary": "#12284c",
+    "secondary": "#ff6c0d",
+    "complementary": "#dbe9ff",
+    "action": "#c34f00",
+    "nearBlack": "#131921",
+    "nearWhite": "#f8fafe"
   },
   "social": [
     {
