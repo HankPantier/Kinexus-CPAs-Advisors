@@ -110,7 +110,7 @@ A: Kinexus CPAs & Advisors is based in St. George, UT, and works with contractor
 **Q: How is Kinexus different from a typical once-a-year tax preparer?**
 A: Kinexus focuses on year-round, proactive tax planning and CFO-level business advisory rather than annual filing alone. Credentialed staff, including CPAs and Enrolled Agents, provide ongoing guidance so tax strategy gets built into decisions throughout the year, not just at deadline time.
 
-<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-meeting.jpg | alt: CPA and business owner shaking hands after a planning meeting | query: advisor client handshake office meeting -->
+<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-meeting.jpg | alt: "CPA and business owner shaking hands after a planning meeting" | query: "advisor client handshake office meeting" -->
 ## Get proactive guidance tailored to your business
 
 Reading about tax strategy is useful. Applying it to your specific entity, industry, and growth stage is where the actual savings show up. Shawn T. Gubler, CPA, CTC, MAcc, and the Kinexus team work with contractors, restaurant operators, real estate investors, medical professionals, and service-based businesses across St. George on planning that runs all year, not just at filing time.
