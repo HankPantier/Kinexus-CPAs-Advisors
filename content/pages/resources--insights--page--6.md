@@ -131,7 +131,7 @@ A: Many posts address federal tax strategy that applies nationally, while others
 **Q: Can I get personalized advice instead of just reading articles?**
 A: Yes. Kinexus CPAs offers direct consultations with credentialed CPAs and EAs, including Shawn Gubler, CPA, CTC, MAcc, to apply these strategies to your specific business, whether construction, restaurant, real estate, or medical practice.
 
-<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-meeting.jpg | alt: Business owner and CPA shaking hands after a consultation meeting | query: business owner meeting with accountant handshake -->
+<!-- block: cta-banner | variant: image-bg | image: cpa-consultation-meeting.jpg | alt: "Business owner and CPA shaking hands after a consultation meeting" | query: "business owner meeting with accountant handshake" -->
 ## Talk to a CPA about your specific situation
 
 Blog posts are useful, but they can't replace a conversation about your actual numbers. Whether you're a contractor sorting out job costing, a restaurant owner opening a second location, or a physician weighing an entity change, Shawn Gubler, RJ Mathews, and the Kinexus team can walk through your specific situation and build a plan around it.
