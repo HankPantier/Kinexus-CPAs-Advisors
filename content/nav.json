@@ -145,112 +145,30 @@
       ]
     },
     {
-      "label": "Insights",
-      "url": "/resources/insights",
-      "children": [
-        {
-          "label": "Insights page 2",
-          "url": "/resources/insights/page/2"
-        },
-        {
-          "label": "Insights page 3",
-          "url": "/resources/insights/page/3"
-        },
-        {
-          "label": "Insights page 4",
-          "url": "/resources/insights/page/4"
-        },
-        {
-          "label": "Insights page 5",
-          "url": "/resources/insights/page/5"
-        },
-        {
-          "label": "Insights page 6",
-          "url": "/resources/insights/page/6"
-        },
-        {
-          "label": "Insights page 7",
-          "url": "/resources/insights/page/7"
-        },
-        {
-          "label": "Insights page 8",
-          "url": "/resources/insights/page/8"
-        },
-        {
-          "label": "Insights page 9",
-          "url": "/resources/insights/page/9"
-        },
-        {
-          "label": "Insights page 10",
-          "url": "/resources/insights/page/10"
-        },
-        {
-          "label": "Insights page 11",
-          "url": "/resources/insights/page/11"
-        },
-        {
-          "label": "Insights page 12",
-          "url": "/resources/insights/page/12"
-        },
-        {
-          "label": "Selling a business rental or large asset this year call your cpa before you sign",
-          "url": "/selling-a-business-rental-or-large-asset-this-year-call-your-cpa-before-you-sign"
-        },
-        {
-          "label": "When and why every business owner needs a business valuation",
-          "url": "/when-and-why-every-business-owner-needs-a-business-valuation"
-        },
-        {
-          "label": "Transfer pricing and related entities what business owners need to know",
-          "url": "/transfer-pricing-and-related-entities-what-business-owners-need-to-know"
-        },
-        {
-          "label": "Is your business structure costing you money",
-          "url": "/is-your-business-structure-costing-you-money"
-        },
-        {
-          "label": "Zero based budgeting a smarter way to manage your money during persistent inflation",
-          "url": "/zero-based-budgeting-a-smarter-way-to-manage-your-money-during-persistent-inflation"
-        },
-        {
-          "label": "Upskilling your workforce a smart strategy for overcoming labor market shortages",
-          "url": "/upskilling-your-workforce-a-smart-strategy-for-overcoming-labor-market-shortages"
-        },
-        {
-          "label": "Kinexus author page",
-          "url": "/author/donmbn"
-        }
-      ]
-    },
-    {
-      "label": "Smart tips",
-      "url": "/resources/smart-tips",
-      "children": [
-        {
-          "label": "Smart tips page 2",
-          "url": "/resources/smart-tips/page/2"
-        }
-      ]
-    },
-    {
-      "label": "Forms documents and links",
-      "url": "/resources/forms-documents-links"
-    },
-    {
-      "label": "Refund tracker",
-      "url": "/resources/refund-tracker"
-    },
-    {
       "label": "Resources",
-      "url": "/resources"
+      "url": "/resources",
+      "children": [
+        {
+          "label": "Insights",
+          "url": "/resources/insights"
+        },
+        {
+          "label": "Smart tips",
+          "url": "/resources/smart-tips"
+        },
+        {
+          "label": "Forms, documents and links",
+          "url": "/resources/forms-documents-links"
+        },
+        {
+          "label": "Refund tracker",
+          "url": "/resources/refund-tracker"
+        }
+      ]
     },
     {
       "label": "Get in touch",
       "url": "/contact"
-    },
-    {
-      "label": "Privacy policy",
-      "url": "/privacy-policy"
     }
   ],
   "cta": {
