@@ -147,7 +147,6 @@ Kinexus CPAs & Advisors offers restaurant-specific accounting in St. George, Uta
   "@type": "Organization",
   "name": "Kinexus CPAs & Advisors",
   "url": "https://stgcpas.com",
-  "logo": "https://stgcpas.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/kinexus-cpas-&-advisors",
     "https://maps.google.com/?cid=16521154449251368305&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
